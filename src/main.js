@@ -3,6 +3,7 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import 'amfe-flexible'
+import '@/styles/icon.less'
 //* 导入vant组件库
 import Vant from 'vant'
 import 'vant/lib/index.css'
